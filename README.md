@@ -10,7 +10,7 @@ From the youngest age I was obsessed with computers and electronics. Mostly I wa
 * ✉️  You can contact me at [sunr1s3.devourer@gmail.com](mailto:sunr1s3.devourer@gmail.com)
 * 🧠  I'm learning Python :)
 * 🤝  I'm open to collaborating on any interesting project that have some sort of training
-* ⚡  Despite the fact that I am interested in IT, I really love Nature
+* ⚡  Despite the fact that I am interested in technology, I really love Nature 💚
 
 
 ### Socials
